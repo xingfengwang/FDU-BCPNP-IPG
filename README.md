@@ -6,7 +6,7 @@
 
 本次请愿一共征集到 202 位同学参与，现场到位的同学也很多。首先要感谢大家的支持和声援，也感谢 Mr. Jobin Mojtabavi 老师能坐下来，面对面倾听我们学生的声音。
 
-### Frank 和几位同学代表跟 Mr. Jobin Mojtabavi 老师 在 lounge 大厅沟通，把在读大群里提到的所有诉求都明确地表达了，包括不限于：
+### Frank 和几位同学代表跟 Mr. Jobin Mojtabavi 老师 在 lounge 大厅沟通，把微信在读大群里提到的所有诉求都明确地表达了，包括不限于：
 
 1. 希望学校高层能代表学生向 BC gov 相关部门表达诉求，为 current & incoming student 争取利益， 影响新政的细则。
 2. 要求取消选课限制，尽可能多地在 2024 summer 和 2024 fall 增开课程。
@@ -38,7 +38,7 @@
 
 ### Update on the Communication with Mr. Jobin Mojtabavi:
 
-Today, a total of 202 students participated in the petition, and many students were present on-site. First of all, we would like to thank everyone for their support and encouragement, and also thank Teacher Mr. Jobin Mojtabavi for sitting down and listening to our voices face-to-face. Frank and several students represented the students in communicating with Teacher Mr. Jobin Mojtabavi in the lounge, clearly expressing all the demands mentioned in the large group of students, including but not limited to:
+Today, a total of 202 students participated in the petition, and many students were present on-site. First of all, we would like to thank everyone for their support and encouragement, and also thank Teacher Mr. Jobin Mojtabavi for sitting down and listening to our voices face-to-face. Frank and several students represented the students in communicating with Mr. Jobin Mojtabavi in the lounge, clearly expressing all the demands mentioned in the WeChat group of students, including but not limited to:
 
 - Requesting the school's leadership to represent the students to express demands to the relevant departments of the BC government, advocating for the interests of current and incoming students, and influencing the details of the new policy.
 - Requesting the removal of course selection restrictions and the possible increase of courses in Summer 2024 and Fall 2024.
@@ -52,9 +52,9 @@ Today, a total of 202 students participated in the petition, and many students w
 
 - Mr. Jobin Mojtabavi clearly received our petition and listened to and recorded all our demands in person, and promised to convey them to the president and other relevant department heads in a timely manner.
 
-- Mr. Jobin Mojtabavi promised to communicate any updated information to student representative Frank in a timely manner and establish an open and transparent communication channel for all affected students, such as a Zoom meeting.
+- Mr. Jobin Mojtabavi promised to communicate any updated information to student representative Frank promptly and establish an open and transparent communication channel for all affected students, such as a Zoom meeting.
 
-- Mr. Jobin Mojtabavi stated that students entering in 2024 Summer will receive a notification email regarding the school's new policy soon.
+- Mr. Jobin Mojtabavi stated that students entering the 2024 Summer will receive a notification email regarding the school's new policy soon.
 
 ### Subsequent achievements:
 
