@@ -60,7 +60,7 @@ Today, a total of 202 students participated in the petition, and many students w
 
 - The school has sent an email stating that a Town Hall Meeting will be held next Wednesday, March 27th, at 3:00 pm, inviting the Ministry of Advanced Education and Future Skills to communicate with students, in person and via Zoom.
 
-- The school's course selection system has been updated, and the course selection deadline for the next semester has been postponed to April 7, 2024.
+- The school's course selection system has been updated, and the course selection start date for the next semester has been postponed to April 7, 2024.
 
 ### Subsequent actions communication within the school:
 
