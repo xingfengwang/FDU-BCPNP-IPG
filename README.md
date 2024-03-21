@@ -25,7 +25,7 @@
 ### 后续成果：
 
 1. 学校已发邮件将于下周三 3 月 27 日下午三点 举行 Town Hall Meeting，邀请 Ministry of Advanced Education and Future Skills 跟学生的沟通会议，in person and zoom.
-2. 学校选课系统已经更新下学期选课时间，延后到 2024 年 4 月 7 日。
+2. 学校选课系统已经更新下学期选课时间，延后到 2024 年 4 月 2 日。 见最新的邮件。
 
 ### 接下来与学校层面沟通的后续行动：
 
@@ -33,7 +33,12 @@
 2. 针对下周三的 town hall 与教育部门的沟通会议，现在向所有同学征集新政策对大家可能造成的影响，以及我们对这个新政的未来细则的可能的建议。
 3. 尽可能多地告知身边一起上课的其他族裔的同学，让所有收到新政策影响的同学都能加入周三的沟通会议。能来线下参加的，建议都来学校，气势上不能输。
 4. 同时，向所有在读同学征集意见。集思广益学校可能会提出来哪些困难或借口，对应地我们可以提供哪些方面的协助或反驳，提前做好下一步的应对。
-5. 征集意见在线文档地址有二：一个是下周三town hall 的，文档地址https://github.com/FrankWang-fdu/FDU-BCPNP-IPG/discussions/2；另一个是跟学校沟通的下一步行动的意见建议征集文档，文件地址为：https://github.com/FrankWang-fdu/FDU-BCPNP-IPG/discussions/3。此次在线文档可以溯源编辑信息，请大家小心维护，误操作后如果需要技术帮助请及时联系文档建立者。谢谢大家参与。
+5. 征集意见在线文档地址有二：
+   一个是下周三town hall 的文档地址  https://github.com/FrankWang-fdu/FDU-BCPNP-IPG/discussions/2
+   另一个是跟学校沟通的下一步行动的意见建议征集文档，文件地址为： https://github.com/FrankWang-fdu/FDU-BCPNP-IPG/discussions/3
+
+参与讨论需要先注册github账号并登录，查看文档无需登录，请大家积极参与讨论。如果需要技术帮助请及时群里求助。谢谢大家参与。
+
 ## Minutes of the Petition Activity on March 21, 2024
 
 ### Update on the Communication with Mr. Jobin Mojtabavi:
@@ -60,7 +65,7 @@ Today, a total of 202 students participated in the petition, and many students w
 
 - The school has sent an email stating that a Town Hall Meeting will be held next Wednesday, March 27th, at 3:00 pm, inviting the Ministry of Advanced Education and Future Skills to communicate with students, in person and via Zoom.
 
-- The school's course selection system has been updated, and the course selection start date for the next semester has been postponed to April 7, 2024.
+- The school's course selection system has been updated, and the course selection start date for the next semester has been postponed to April 2, 2024. Please check your email regularly.
 
 ### Subsequent actions communication within the school:
 
