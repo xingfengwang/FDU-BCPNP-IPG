@@ -33,7 +33,7 @@
 2. 针对下周三的 town hall 与教育部门的沟通会议，现在向所有同学征集新政策对大家可能造成的影响，以及我们对这个新政的未来细则的可能的建议。
 3. 尽可能多地告知身边一起上课的其他族裔的同学，让所有收到新政策影响的同学都能加入周三的沟通会议。能来线下参加的，建议都来学校，气势上不能输。
 4. 同时，向所有在读同学征集意见。集思广益学校可能会提出来哪些困难或借口，对应地我们可以提供哪些方面的协助或反驳，提前做好下一步的应对。
-
+5. 征集意见在线文档地址有二：一个是下周三town hall 的，文档地址https://github.com/FrankWang-fdu/FDU-BCPNP-IPG/discussions/2；另一个是跟学校沟通的下一步行动的意见建议征集文档，文件地址为：https://github.com/FrankWang-fdu/FDU-BCPNP-IPG/discussions/3。此次在线文档可以溯源编辑信息，请大家小心维护，误操作后如果需要技术帮助请及时联系文档建立者。谢谢大家参与。
 ## Minutes of the Petition Activity on March 21, 2024
 
 ### Update on the Communication with Mr. Jobin Mojtabavi:
